@@ -35,7 +35,8 @@ It focuses on driver performance, consistency, and long-term trends.
 
 ## 📸 Dashboard Preview
 
-![Dashboard]<img width="1014" height="566" alt="image" src="https://github.com/user-attachments/assets/d52addc9-010d-4bfd-8c17-d0bde865ba8e" />
+Dashboard 
+<img width="1014" height="566" alt="image" src="https://github.com/user-attachments/assets/d52addc9-010d-4bfd-8c17-d0bde865ba8e" />
 
 <img width="1014" height="563" alt="image" src="https://github.com/user-attachments/assets/be5761da-9e68-4eda-b92a-6cda238b8301" />
 
